@@ -1,3 +1,4 @@
+#just for checking changes in auto merge
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
