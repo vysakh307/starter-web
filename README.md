@@ -1,3 +1,4 @@
+#checking rebase example
 #just for checking changes in auto merge
 # Starter Web Repo
 
