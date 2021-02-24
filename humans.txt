@@ -1,9 +1,3 @@
-
-# maing complicated in my brach for rebase
-#cheecking for any conflict example in master
-=======
-#checking conflict in MAster branch for rebase conflict
->>>>>>> in master branch checking conflict
 #checkings rebase example
 #changes for checking conflict in master branch
 #humanstxt.org/
